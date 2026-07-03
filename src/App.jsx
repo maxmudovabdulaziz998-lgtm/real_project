@@ -2,7 +2,15 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+
+      <div className='sayt'>
+        <h1>
+           frontned 
+        </h1>
+      </div>
+
+    </div>
   )
 }
 
