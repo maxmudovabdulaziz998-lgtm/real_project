@@ -6,7 +6,7 @@ const App = () => {
 
       <div className='sayt'>
         <h1>
-           frontned 
+           frontned llllllllooooooooooolllll
         </h1>
       </div>
 
